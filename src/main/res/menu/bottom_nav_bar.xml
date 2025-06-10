@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_24"/>
+    <item android:title="BMI"
+        android:id="@+id/bmi"
+        android:icon="@drawable/ic_calculate_24"/>
+    <item android:title="Food"
+        android:id="@+id/food"
+        android:icon="@drawable/ic_fastfood_24"/>
+    <item android:title="Water"
+        android:id="@+id/water"
+        android:icon="@drawable/ic_water_drop_24"/>
+</menu>

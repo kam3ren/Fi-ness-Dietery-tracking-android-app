@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">finess</string>
+    <string name="hello_blank_finess">Hello blank finess</string>
+    <string name="fi_ness">Fi_NESS</string>
+    <string name="_10000">10000</string>
+    <string name="food_item_serving_quantity">Food item + serving quantity</string>
+    <!-- Add your ethnicity options here -->
+    <string-array name="ethnicity_options">
+        <item>Asian</item>
+        <item>Caucasian</item>
+        <item>Hispanic</item>
+        <item>African American</item>
+        <item>Middle Eastern</item>
+        <item>Native American</item>
+        <item>Other</item>
+    </string-array>
+</resources>

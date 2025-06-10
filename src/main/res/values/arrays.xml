@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activity_levels">
+        <item>Sedentary</item>
+        <item>Light Activity</item>
+        <item>Moderate Activity</item>
+        <item>Very Active</item>
+        <item>Extreme Activity</item>
+    </string-array>
+
+    <string-array name="fitness_goals">
+        <item>Weight Loss</item>
+        <item>Maintenance</item>
+        <item>Muscle Gain</item>
+        <item>Athletic Performance</item>
+    </string-array>
+</resources>
